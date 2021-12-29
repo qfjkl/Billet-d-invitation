@@ -5,7 +5,7 @@ function App() {
   return (
     <div className="app">
       <Nav />
-      <Grid container  justifyContent="center" style={{backgroundColor : "red"}}>
+      <Grid container  justifyContent="center" >
         <Grid item  xs={4}>
            <Card/>
           </Grid>
